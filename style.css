@@ -1,0 +1,33 @@
+
+body{
+background-color: brown;
+}
+
+h1{
+background-color: rgb(28, 197, 231);
+color: white;
+text-align: center;
+}
+img{
+width: 130px;
+height: 100px;
+
+}
+.q{
+background-color: white;
+width: 350px;
+text-align: center;
+border: 1px solid black;
+border-radius: 7px;
+}
+.a{
+background-color: rgb(242, 227, 200);
+height: 925px;
+
+
+}
+button{
+background-color: black;
+color: white;
+border-radius: 10px;
+}
